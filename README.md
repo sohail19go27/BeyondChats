@@ -3,6 +3,7 @@ BeyondChats – Full Stack Web Developer Intern Assignment
 This repository contains my submission for the Full Stack Web Developer Intern Assignment at BeyondChats.
 The project is implemented in three phases as described in the assignment and demonstrates backend development, web scraping, AI-based content enhancement, and frontend UI development.
 
+
 📌 Project Overview
 
 The goal of this project is to:
@@ -15,13 +16,14 @@ Enhance article content using AI (LLM) with reference articles.
 
 Display both original and AI-updated articles in a responsive React frontend.
 
+
+
 🧩 Project Phases
 ✅ Phase 1: Web Scraping & Backend APIs
 
 Scraped the 5 oldest articles from:
 
 https://beyondchats.com/blogs/
-
 
 Extracted:
 
@@ -34,6 +36,8 @@ Date
 Stored articles in MongoDB
 
 Built CRUD APIs using Node.js, Express, and Mongoose
+
+
 
 ✅ Phase 2: AI-based Article Enhancement
 
@@ -52,6 +56,8 @@ Appends reference links at the bottom
 Updated articles are saved back to MongoDB with an isUpdated flag
 
 ⚠️ This script is intentionally not deployed and is run manually to avoid serverless execution limits.
+
+
 
 ✅ Phase 3: Frontend (React)
 
@@ -95,9 +101,12 @@ Reference links
 └────────────┘
 
 
+
 Important principle:
 👉 The frontend never talks to the database directly.
 👉 All data access happens through backend APIs.
+
+
 
 ⚙️ Tech Stack
 Backend
@@ -115,6 +124,7 @@ Axios
 Cheerio
 
 Gemini LLM API
+
 
 Frontend
 
@@ -150,9 +160,9 @@ Backend will run at:
 
 http://localhost:5000
 
+
 3️⃣ Run Scraper (Phase 1)
 node scrapeOldestBlogs.js
-
 
 This will:
 
@@ -163,17 +173,18 @@ Save them to MongoDB
 4️⃣ Run AI Update Script (Phase 2)
 node updateArticles.js
 
-
 This will:
 
 Enhance article content using AI
 
 Save updated versions to DB
 
+
 5️⃣ Frontend Setup
 cd ../frontend
 npm install
 npm run dev
+
 
 
 Frontend runs at:
@@ -187,6 +198,8 @@ Frontend (Vercel):
 
 Backend (Render):
 👉 To be added
+
+
 
 📊 Evaluation Criteria Alignment
 
@@ -202,6 +215,8 @@ This project satisfies all evaluation criteria mentioned in the assignment:
 
 ✅ Scalable architecture
 
+
+
 📝 Notes
 
 The AI update script is executed manually, not via frontend or deployment.
@@ -209,6 +224,8 @@ The AI update script is executed manually, not via frontend or deployment.
 Mock search is used in place of Google Search API to avoid paid services.
 
 Reference URLs are still cited at the bottom of updated articles.
+
+
 
 🙌 Final Note
 
