@@ -1,10 +1,10 @@
-BeyondChats – Full Stack Web Developer Intern Assignment
+# BeyondChats – Full Stack Web Developer Intern Assignment
 
 This repository contains my submission for the Full Stack Web Developer Intern Assignment at BeyondChats.
 The project is implemented in three phases as described in the assignment and demonstrates backend development, web scraping, AI-based content enhancement, and frontend UI development.
 
 
-📌 Project Overview
+##📌 Project Overview
 
 The goal of this project is to:
 
@@ -18,7 +18,7 @@ Display both original and AI-updated articles in a responsive React frontend.
 
 
 
-🧩 Project Phases
+### 🧩 Project Phases
 ✅ Phase 1: Web Scraping & Backend APIs
 
 Scraped the 5 oldest articles from:
@@ -102,14 +102,14 @@ Reference links
 
 
 
-Important principle:
+### Important principle:
 👉 The frontend never talks to the database directly.
 👉 All data access happens through backend APIs.
 
 
 
-⚙️ Tech Stack
-Backend
+## ⚙️ Tech Stack
+### Backend
 
 Node.js
 
@@ -126,7 +126,7 @@ Cheerio
 Gemini LLM API
 
 
-Frontend
+### Frontend
 
 React (Vite)
 
@@ -139,9 +139,9 @@ CSS (custom, responsive)
 git clone <your-github-repo-url>
 cd BeyondChats
 
-2️⃣ Backend Setup
-cd backend
-npm install
+## 2️⃣ Backend Setup
+cd backend 
+npm install 
 
 
 Create a .env file inside backend/:
@@ -161,7 +161,7 @@ Backend will run at:
 http://localhost:5000
 
 
-3️⃣ Run Scraper (Phase 1)
+### 3️⃣ Run Scraper (Phase 1)
 node scrapeOldestBlogs.js
 
 This will:
@@ -170,7 +170,7 @@ Scrape oldest articles
 
 Save them to MongoDB
 
-4️⃣ Run AI Update Script (Phase 2)
+### 4️⃣ Run AI Update Script (Phase 2)
 node updateArticles.js
 
 This will:
@@ -180,7 +180,7 @@ Enhance article content using AI
 Save updated versions to DB
 
 
-5️⃣ Frontend Setup
+### 5️⃣ Frontend Setup
 cd ../frontend
 npm install
 npm run dev
@@ -201,7 +201,7 @@ Backend (Render):
 
 
 
-📊 Evaluation Criteria Alignment
+### 📊 Evaluation Criteria Alignment
 
 This project satisfies all evaluation criteria mentioned in the assignment:
 
@@ -217,7 +217,7 @@ This project satisfies all evaluation criteria mentioned in the assignment:
 
 
 
-📝 Notes
+### 📝 Notes
 
 The AI update script is executed manually, not via frontend or deployment.
 
@@ -227,7 +227,7 @@ Reference URLs are still cited at the bottom of updated articles.
 
 
 
-🙌 Final Note
+### 🙌 Final Note
 
 This project demonstrates:
 
