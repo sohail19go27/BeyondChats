@@ -4,7 +4,7 @@ This repository contains my submission for the Full Stack Web Developer Intern A
 The project is implemented in three phases as described in the assignment and demonstrates backend development, web scraping, AI-based content enhancement, and frontend UI development.
 
 
-##📌 Project Overview
+## 📌 Project Overview
 
 The goal of this project is to:
 
@@ -79,7 +79,7 @@ Content
 
 Reference links
 
-🏗️ Architecture & Data Flow
+### 🏗️ Architecture & Data Flow
 ┌────────────┐
 │ Frontend   │  (React + Vite)
 │            │
