@@ -1,4 +1,4 @@
-# BeyondChats – Full Stack Web Developer Intern Assignment
+# BeyondChats
 
 This repository contains my submission for the Full Stack Web Developer Intern Assignment at BeyondChats.
 The project is implemented in three phases as described in the assignment and demonstrates backend development, web scraping, AI-based content enhancement, and frontend UI development.
@@ -17,8 +17,7 @@ Enhance article content using AI (LLM) with reference articles.
 Display both original and AI-updated articles in a responsive React frontend.
 
 
-
-### 🧩 Project Phases
+## 🧩 Project Phases
 ✅ Phase 1: Web Scraping & Backend APIs
 
 Scraped the 5 oldest articles from:
