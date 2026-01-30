@@ -18,27 +18,21 @@ Display both original and AI-updated articles in a responsive React frontend.
 
 
 ## 🧩 Project Phases
-✅ Phase 1: Web Scraping & Backend APIs
+### ✅ Phase 1: Web Scraping & Backend APIs
 
 Scraped the 5 oldest articles from:
 
 https://beyondchats.com/blogs/
 
-Extracted:
-
-Title
-
-URL
-
-Date
-
-Stored articles in MongoDB
-
-Built CRUD APIs using Node.js, Express, and Mongoose
+#### Extracted: 
+Title 
+URL 
+Date 
+Stored articles in MongoDB 
+Built CRUD APIs using Node.js, Express, and Mongoose 
 
 
-
-✅ Phase 2: AI-based Article Enhancement
+### ✅ Phase 2: AI-based Article Enhancement
 
 Created a Node.js script (manual execution) that:
 
@@ -58,7 +52,7 @@ Updated articles are saved back to MongoDB with an isUpdated flag
 
 
 
-✅ Phase 3: Frontend (React)
+### ✅ Phase 3: Frontend (React)
 
 Built a React (Vite) frontend that:
 
@@ -78,7 +72,7 @@ Content
 
 Reference links
 
-### 🏗️ Architecture & Data Flow
+## 🏗️ Architecture & Data Flow
 ┌────────────┐
 │ Frontend   │  (React + Vite)
 │            │
@@ -101,7 +95,7 @@ Reference links
 
 
 
-### Important principle:
+## Important principle:
 👉 The frontend never talks to the database directly.
 👉 All data access happens through backend APIs.
 
@@ -141,23 +135,15 @@ cd BeyondChats
 ## 2️⃣ Backend Setup
 cd backend 
 npm install 
+Create a .env file inside backend/: 
+PORT=5000 
+MONGO_URI=your_mongodb_connection_string 
+GEMINI_API_KEY=your_gemini_api_key 
 
-
-Create a .env file inside backend/:
-
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-GEMINI_API_KEY=your_gemini_api_key
-
-
-Run backend server:
-
-npm run dev
-
-
-Backend will run at:
-
-http://localhost:5000
+Run backend server: 
+npm run dev 
+Backend will run at: 
+http://localhost:5000 
 
 
 ### 3️⃣ Run Scraper (Phase 1)
@@ -184,13 +170,11 @@ cd ../frontend
 npm install
 npm run dev
 
-
-
 Frontend runs at:
 
 http://localhost:5173
 
-🌐 Live Links
+### 🌐 Live Links
 
 Frontend (Vercel):
 👉 To be added
