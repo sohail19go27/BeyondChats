@@ -5,7 +5,7 @@ The project is implemented in three phases as described in the assignment and de
 
 ## 📌 Project Overview
 
-The goal of this project is to:
+The goal of this project is to :
 
 Scrape the oldest blog articles from BeyondChats .
 
@@ -13,7 +13,7 @@ Store and manage them via CRUD APIs.
 
 Enhance article content using AI (LLM) with reference articles.
 
-Display both original and AI-updated articles in a responsive React frontend.
+Display both original and AI-updated articles in a responsive React frontend .
 
 
 ## 🧩 Project Phases
