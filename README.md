@@ -53,16 +53,11 @@ Fetches articles from backend APIs
 
 Displays articles in a responsive card-based UI
 
-Shows:
-
-Title
-
-Date
-
-Updated badge
-
-Content
-
+Shows: 
+Title 
+Date 
+Updated badge 
+Content 
 Reference links
 
 ## 🏗️ Architecture & Data Flow `
