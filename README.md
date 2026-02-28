@@ -1,19 +1,19 @@
-# BeyondChats
+# BeyondChats 
 
-The project is implemented in three phases as described in the assignment and demonstrates backend development, web scraping, AI-based content enhancement, and frontend UI development.
+The project is implemented in three phases as described in the assignment and demonstrates backend development, web scraping, AI-based content enhancement, and frontend UI development. 
 
 
 ## 📌 Project Overview
 
-The goal of this project is to :
+The goal of this project is to : 
 
-Scrape the oldest blog articles from BeyondChats .
+Scrape the oldest blog articles from BeyondChats. 
 
-Store and manage them via CRUD APIs.
+Store and manage them via CRUD APIs. 
 
-Enhance article content using AI (LLM) with reference articles.
+Enhance article content using AI (LLM) with reference articles. 
 
-Display both original and AI-updated articles in a responsive React frontend .
+Display both original and AI-updated articles in a responsive React frontend . 
 
 
 ## 🧩 Project Phases
@@ -30,7 +30,7 @@ Stored articles in MongoDB
 Built CRUD APIs using Node.js, Express, and Mongoose 
 
 
-### ✅ Phase 2: AI-based Article Enhancement
+### ✅ Phase 2: AI-based Article Enhancement 
 
 #### Created a Node.js script (manual execution) that:
 
@@ -47,18 +47,16 @@ Updated articles are saved back to MongoDB with an isUpdated flag
 
 ### ✅ Phase 3: Frontend (React)
 
-Built a React (Vite) frontend that:
-
-Fetches articles from backend APIs
-
-Displays articles in a responsive card-based UI.
+Built a React (Vite) frontend that: 
+Fetches articles from backend APIs 
+Displays articles in a responsive card-based UI. 
 
 Shows: 
 Title 
 Date 
 Updated badge 
 Content 
-Reference links
+Reference links 
 
 ## 🏗️ Architecture & Data Flow `
 ┌────────────┐
@@ -84,8 +82,8 @@ Reference links
 
 
 ## Important principle:
-👉 The frontend never talks to the database directly.
-👉 All data access happens through backend APIs.
+👉 The frontend never talks to the database directly. 
+👉 All data access happens through backend APIs. 
 
 
 
@@ -93,26 +91,18 @@ Reference links
 ### Backend
 
 Node.js
-
 Express.js
-
 MongoDB (Atlas)
-
 Mongoose
-
 Axios
-
 Cheerio
-
 Gemini LLM API
 
 
 ### Frontend
 
 React (Vite)
-
 JavaScript
-
 CSS (custom, responsive)
 
 🚀 Local Setup Instructions
@@ -120,7 +110,7 @@ CSS (custom, responsive)
 git clone <your-github-repo-url>
 cd BeyondChats
 
-## 2️⃣ Backend Setup
+## 2️⃣ Backend Setup 
 cd backend 
 npm install 
 Create a .env file inside backend/: 
@@ -138,76 +128,60 @@ http://localhost:5000
 node scrapeOldestBlogs.js
 
 This will:
-
 Scrape oldest articles
-
 Save them to MongoDB
 
 ### 4️⃣ Run AI Update Script (Phase 2)
 node updateArticles.js
 
 This will:
-
-Enhance article content using AI
-
-Save updated versions to DB
+Enhance article content using AI 
+Save updated versions to DB 
 
 
-### 5️⃣ Frontend Setup
-cd ../frontend
-npm install
-npm run dev
+### 5️⃣ Frontend Setup 
+cd ../frontend 
+npm install  
+npm run dev 
 
-Frontend runs at:
+Frontend runs at: 
+http://localhost:5173 
 
-http://localhost:5173
-
-### 🌐 Live Links
+### 🌐 Live Links 
 
 Frontend (Vercel):
 👉 To be added
 
-Backend (Render):
-👉 To be added
+Backend (Render): 
+👉 To be added  
 
 
 
-### 📊 Evaluation Criteria Alignment
+### 📊 Evaluation Criteria Alignment 
 
-This project satisfies all evaluation criteria mentioned in the assignment:
+This project satisfies all evaluation criteria mentioned in the assignment: 
 
-✅ Completeness
-
-✅ Clean & structured README
-
-✅ Responsive UI
-
-✅ Clear backend–frontend separation
-
-✅ Scalable architecture
+✅ Completeness 
+✅ Clean & structured README 
+✅ Responsive UI 
+✅ Clear backend–frontend separation 
+✅ Scalable architecture 
 
 
 
 ### 📝 Notes
 
-The AI update script is executed manually, not via frontend or deployment.
-
-Mock search is used in place of Google Search API to avoid paid services.
-
-Reference URLs are still cited at the bottom of updated articles.
+The AI update script is executed manually, not via frontend or deployment. 
+Mock search is used in place of Google Search API to avoid paid services. 
+Reference URLs are still cited at the bottom of updated articles. 
 
 
 
-### 🙌 Final Note
+### 🙌 Final Note 
 
-This project demonstrates:
-
-Real-world backend practices
-
-AI integration
-
-Data flow understanding
-
-Clean frontend architecture
-
-Thank you for the opportunity!
+This project demonstrates: 
+Real-world backend practices  
+AI integration 
+Data flow understanding 
+Clean frontend architecture 
+Thank you for the opportunity! 
