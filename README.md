@@ -41,14 +41,13 @@ Preserves original meaning while improving structure and clarity
 Appends reference links at the bottom 
 Updated articles are saved back to MongoDB with an isUpdated flag 
 
-⚠️ This script is intentionally not deployed and is run manually to avoid serverless execution limits.
-
+⚠️ This script is intentionally not deployed and is run manually to avoid serverless execution limits. 
 
 
 ### ✅ Phase 3: Frontend (React)
 
 Built a React (Vite) frontend that: 
-Fetches articles from backend APIs 
+Fetches articles from backend APIs .
 Displays articles in a responsive card-based UI. 
 
 Shows: 
