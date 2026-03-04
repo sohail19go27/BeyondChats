@@ -34,12 +34,12 @@ Built CRUD APIs using Node.js, Express, and Mongoose
 
 #### Created a Node.js script (manual execution) that:
 
-Fetches stored articles from the database 
-Searches related articles (mocked Google search) 
-Uses Gemini LLM to rewrite and enhance content 
-Preserves original meaning while improving structure and clarity 
-Appends reference links at the bottom 
-Updated articles are saved back to MongoDB with an isUpdated flag 
+Fetches stored articles from the database. 
+Searches related articles (mocked Google search). 
+Uses Gemini LLM to rewrite and enhance content. 
+Preserves original meaning while improving structure and clarity. 
+Appends reference links at the bottom. 
+Updated articles are saved back to MongoDB with an isUpdated flag. 
 
 ⚠️ This script is intentionally not deployed and is run manually to avoid serverless execution limits. 
 
