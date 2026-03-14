@@ -22,7 +22,7 @@ Display both original and AI-updated articles in a responsive React frontends .
 Scraped the 5 oldest articles from: 
 https://beyondchats.com/blogs/
 
-#### Extracted: 
+#### Extracted : 
 Title
 URL 
 Date 
