@@ -17,7 +17,7 @@ Display both original and AI-updated articles in a responsive React frontends .
 
 
 ## 🧩 Project Phases
-### ✅ Phase 1: Web Scraping & Backend APIs.
+### ✅ Phase 1: Web Scrapings & Backend APIs 
 
 Scraped the 5 oldest articles from: 
 https://beyondchats.com/blogs/
