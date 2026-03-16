@@ -1,6 +1,6 @@
 # BeyondChats 
 
-The project is implemented in three phases as described in the assignment and demonstrates backend development, web scraping, AI-based content enhancement, and frontend UI development . 
+This project is implemented in three phases as described in the assignment and demonstrates backend development, web scraping, AI-based content enhancement, and frontend UI development . 
 
 
 ## 📌 Project Overview:
