@@ -30,7 +30,7 @@ Stored articles in MongoDB
 Built CRUD APIs using Node.js, Express and Mongoose 
 
 
-### ✅ Phase 2: AI-based Article Enhancement 
+### ✅ Phase 2: AI-based Article Enhancements 
 
 #### Created a Node.js script (manual execution) that:
 
