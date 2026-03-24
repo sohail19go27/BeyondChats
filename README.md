@@ -16,7 +16,7 @@ Enhance article content using AI (LLM) with reference articles.
 Display both original and AI-updated articles in a responsive React frontends . 
 
 
-## 🧩 Project Phases
+## 🧩 Project Phases:
 ### ✅ Phase 1: Web Scrapings & Backend APIs 
 
 Scraped the 5 oldest articles from : 
