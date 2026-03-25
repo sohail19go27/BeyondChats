@@ -27,7 +27,7 @@ Title
 URL 
 Date 
 Stored articles in MongoDB 
-Built CRUD APIs using Node.js, Express and Mongoose 
+Built CRUD APIs using Node.js, Express and Mongoose .
 
 
 ### ✅ Phase 2: AI-based Article Enhancements 
