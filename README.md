@@ -17,7 +17,7 @@ Display both original and AI-updated articles in a responsive React frontends .
 
 
 ## 🧩 Project Phases:
-### ✅ Phase 1: Web Scrapings & Backend APIs 
+### ✅ Phase 1: Web Scrapings & Backend APIs.
 
 Scraped the 5 oldest articles from : 
 https://beyondchats.com/blogs/
@@ -44,7 +44,7 @@ Updated articles are saved back to MongoDB with an isUpdated flag.
 ⚠️ This script is intentionally not deployed and is run manually to avoid serverless execution limits. 
 
 
-### ✅ Phase 3: Frontend (React)
+### ✅ Phase 3: Frontend (React).
 
 Built a React (Vite) frontend that: 
 Fetches articles from backend APIs .
