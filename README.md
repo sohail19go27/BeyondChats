@@ -159,11 +159,11 @@ Backend (Render):
 
 This project satisfies all evaluation criteria mentioned in the assignment: 
 
-✅ Completeness 
-✅ Clean & structured README 
-✅ Responsive UI 
-✅ Clear backend–frontend separation 
-✅ Scalable architecture 
+✅ Completeness  
+✅ Clean & structured README  
+✅ Responsive UI  
+✅ Clear backend–frontend separation  
+✅ Scalable architecture  
 
 
 
