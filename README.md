@@ -1,6 +1,6 @@
 # BeyondChats 
 
-This project is implemented in three phases as described in the assignment and demonstrates backend development, web scraping, ai-based content enhancement, and frontend UI development . 
+This project is implemented in three phases as described in the assignment and demonstrates backend development, web scraping, ai-based content enhancement, and frontend UIs development . 
 
 
 ## 📌 Project Overview:
@@ -23,11 +23,11 @@ Scraped the 5 oldest articles from :
 https://beyondchats.com/blogs/
 
 #### Extracted : 
-Title
-URL 
+Title 
+URL  
 Date 
-Stored articles in MongoDB 
-Built CRUD APIs using Node.js, Express and Mongoose .
+Stored articles in MongoDB  
+Built CRUD APIs using Node.js, Express and Mongoose . 
 
 
 ### ✅ Phase 2: AI-based Article Enhancements 
