@@ -9,7 +9,7 @@ The goal of this project is to make:
 
 Scrape the oldest blog articles from BeyondChats . 
 
-Store and manage them via CRUD APIs. 
+Store and manage them via namely CRUD APIs. 
 
 Enhance article content using AI (LLM) with reference articles. 
 
