@@ -5,7 +5,7 @@ This project is implemented in three phases as described in the assignment and d
 
 ## 📌 Project Overview:
 
-The goal of this project is to make: 
+The goal of this project is to develop: 
 
 Scrape the oldest blog articles from BeyondChats . 
 
