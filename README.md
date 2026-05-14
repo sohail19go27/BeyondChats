@@ -80,37 +80,37 @@ Reference links
 `
 
 
-## Important principle:
-👉 The frontend never talks to the database directly. 
-👉 All data access happens through backend APIs. 
+## Important principle: 
+👉 The frontend never talks to the database directly.  
+👉 All data access happens through backend APIs.  
 
 
 
-## ⚙️ Tech Stack
-### Backend
+## ⚙️ Tech Stack  
+### Backend 
 
-Node.js
-Express.js
-MongoDB (Atlas)
-Mongoose
-Axios
-Cheerio
-Gemini LLM API
+Node.js 
+Express.js  
+MongoDB (Atlas) 
+Mongoose 
+Axios 
+Cheerio 
+Gemini LLM API 
 
 
-### Frontend
+### Frontend 
 
-React (Vite)
-JavaScript
-CSS (custom, responsive)
+React (Vite) 
+JavaScript  
+CSS (custom, responsive) 
 
-🚀 Local Setup Instructions
-1️⃣ Clone the repository
-git clone <your-github-repo-url>
-cd BeyondChats
+🚀 Local Setup Instructions  
+1️⃣ Clone the repository 
+git clone <your-github-repo-url> 
+cd BeyondChats 
 
-## 2️⃣ Backend Setup 
-cd backend 
+## 2️⃣ Backend Setup  
+cd backend  
 npm install 
 Create a .env file inside backend/: 
 PORT=5000 
@@ -123,8 +123,8 @@ Backend will run at:
 http://localhost:5000 
 
 
-### 3️⃣ Run Scraper (Phase 1)
-node scrapeOldestBlogs.js
+### 3️⃣ Run Scraper (Phase 1) 
+node scrapeOldestBlogs.js 
 
 This will:
 Scrape oldest articles
