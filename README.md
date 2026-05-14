@@ -23,16 +23,16 @@ Scraped the 5 oldest articles from :
 https://beyondchats.com/blogs/
 
 #### Extracted : 
-Title 
+Title  
 URL  
 Date 
-Stored articles in MongoDB  
+Stored articles in MongoDB   
 Built CRUD APIs using Node.js, Express and Mongoose . 
 
 
 ### ✅ Phase 2: AI-based Article Enhancements 
 
-#### Created a Node.js script (manual execution) that:
+#### Created a Node.js script (manual execution) that: 
 
 Fetches stored articles from the database. 
 Searches related articles(mocked Google search). 
