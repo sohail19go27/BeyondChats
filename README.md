@@ -58,7 +58,7 @@ Content
 Reference links 
 
 ## 🏗️ Architecture & Data Flow
-`
+```
 ┌────────────┐
 │ Frontend   │  (React + Vite)
 │            │
@@ -78,7 +78,7 @@ Reference links
 │ MongoDB    │
 │ (Atlas)    │
 └────────────┘
-`
+```
 
 
 ## Important principle: 
