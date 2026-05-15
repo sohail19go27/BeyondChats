@@ -57,7 +57,8 @@ Updated badge
 Content 
 Reference links 
 
-## 🏗️ Architecture & Data Flow `
+## 🏗️ Architecture & Data Flow
+`
 ┌────────────┐
 │ Frontend   │  (React + Vite)
 │            │
