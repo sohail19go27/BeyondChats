@@ -103,7 +103,7 @@ Gemini LLM API
 
 React (Vite) 
 JavaScript  
-CSS (custom, responsive) 
+CSS (custom, responsives) 
 
 🚀 Local Setup Instructions  
 1️⃣ Clone the repository 
