@@ -7,7 +7,7 @@ This project is implemented in three phases as described in the assignment and d
 
 The goal of this project is to develop: 
 
-Scrape the oldest blog articles from BeyondChats . 
+Scrape the oldest blog articles from BeyondChat websites pages . 
 
 Store and manage them via namely CRUD APIs. 
 
