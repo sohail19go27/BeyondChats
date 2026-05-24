@@ -173,7 +173,7 @@ This project satisfies all evaluation criteria mentioned in the assignment:
 
 The AI update script is executed manually, not via frontend or deployments. 
 Mock search is used in place of Google Search API to avoid paid services. 
-Reference URLs are still cited at the bottom of updated articles. 
+Reference URLs are still cited at the bottom of the updated articles. 
 
 
 
