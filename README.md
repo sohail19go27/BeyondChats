@@ -50,7 +50,7 @@ Built a React (Vite) frontend that:
 Fetches articles from backend APIs .
 Displays articles in a responsive card-based UI. 
 
-Shows : 
+What it Shows : 
 Title 
 Date 
 Updated badge 
