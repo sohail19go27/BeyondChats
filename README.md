@@ -44,7 +44,7 @@ Updated articles are saved back to MongoDB with an isUpdated flag.
 ⚠️ This script is intentionally not deployed and is run manually to avoid serverless execution limits available. 
 
 
-### ✅ Phase 3: Frontend (React).
+### ✅ Phase 3: Frontend (With React).
 
 Built a React (Vite) frontend that: 
 Fetches articles from backend APIs .
