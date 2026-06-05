@@ -23,9 +23,9 @@ Scraped the 5 oldest articles from :
 https://beyondchats.com/blogs/
 
 #### Extracted : 
-Title  
-URL  
-Date 
+Title:   
+URL:   
+Date:  
 Stored articles in MongoDB   
 Built CRUD APIs using Node.js, Express and Mongoose . 
 
