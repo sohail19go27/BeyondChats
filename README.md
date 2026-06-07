@@ -3,7 +3,7 @@
 This project is implemented in three phases as described in the assignment and demonstrates backend development engineering, web scraping, ai-based content enhancement, and frontend UIs development . 
 
 
-## 📌 Project Overview:
+## 📌 Project Overviews:
 
 The goal of this project is to develop Chats from articles.
 
