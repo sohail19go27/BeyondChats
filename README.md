@@ -34,9 +34,9 @@ Built CRUD APIs using Node.js, Express and Mongoose .
 
 #### Created a Node.js script (manual execution) that: 
 
-Fetches stored articles from the database. 
+Fetches stored articles from the database.  
 Searches related articles(mocked Google search). 
-Uses Gemini LLM to rewrite and enhance content. 
+Uses Gemini LLM to rewrite and enhance content.  
 Preserves original meaning while improving structure and clarity. 
 Appends reference links at the bottom. 
 Updated articles are saved back to MongoDB with an isUpdated flag. 
@@ -47,7 +47,7 @@ Updated articles are saved back to MongoDB with an isUpdated flag.
 ### ✅ Phase 3: Frontend (With React).
 
 Built a React (Vite) frontend that: 
-Fetches articles from backend APIs .
+Fetches articles from backend APIs. 
 Displays articles in a responsive card-based UI. 
 
 What it Shows : 
