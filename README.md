@@ -19,7 +19,7 @@ Display both original and AI-updated articles in a responsive React frontend.
 ## 🧩 Project Phases:
 ### ✅ Phase 1: Web Scrapings & Backend APIs.
 
-Scraped the 5 oldest articles from the sites : 
+Scraped the 5 oldest articles from the sites etc : 
 https://beyondchats.com/blogs/
 
 #### Extracted : 
