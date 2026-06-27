@@ -5,7 +5,7 @@ This project is implemented in three phases as described in the assignment and d
 
 ## 📌 Project Overviews:
 
-The goal of this project is to develop chats from articles and alls etc. 
+The goal of this project is to develop chats from articles and alls etcs. 
 
 Scrape the oldest blog articles from BeyondChat websites pages and its sources. 
 
