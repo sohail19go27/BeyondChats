@@ -9,7 +9,7 @@ The goal of this project is to develop chats from articles and alls etcs.
 
 Scrape the oldest blog articles from BeyondChat websites pages and its sources. 
 
-Store and manage them via namely CRUD APIs development. 
+Store and manage them via namely CRUD APIs development etc. 
 
 Enhance article content using AI (LLM) with reference to articles. 
 
