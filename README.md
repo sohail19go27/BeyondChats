@@ -7,11 +7,11 @@ This project is implemented in three phases as described in the assignment and d
 
 The goal of this project is to develop chatting from articles and all excetras.
 
-Scrape the oldest blog articles from BeyondChat websites and it source.  
+Scrape the oldest blog articles from BeyondChat websites and it sources.  
 
 Store and manage them via namely CRUD APIs development etcs. 
 
-Enhance article content using AI (LLM) with reference to articles. 
+Enhance article content using AI (LLM) with reference to articles etc. 
 
 Display both original and AI-updated articles in a responsive React frontends and work etc. 
 
