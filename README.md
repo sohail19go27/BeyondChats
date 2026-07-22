@@ -13,7 +13,7 @@ Store and manage them via namely CRUD APIs development etcs.
 
 Enhance article content using AI (LLM) with reference to articles etc. 
 
-Display both original and AI-updated articles in a responsive React frontends and work etc. 
+Display both original and AI-updated articles in a responsive React frontends and work and etc. 
 
 
 ## 🧩 Project Phases:
