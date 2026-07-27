@@ -7,7 +7,7 @@ This project is implemented in three phase as described in the assignment and de
 
 The goal of these project is to develop chatting from articles and  websites.
 
-Scrape the oldest blog articles from BeyondChat websites and its sources.  
+Scrape the oldest blog articles from BeyondChat websites and its sources and all.  
 
 Store and manage them via namely CRUD APIs developmenting etcs. 
 
