@@ -1,4 +1,4 @@
-# BeyondChats Application Designing Phasings:
+# BeyondChats Application Designing Phasingss:
 
 This Project is implemented in three phases as described in the assignment and demonstrates backend development engineering, web scraping, ai-based content enhancement, and frontend UIs developmenting it. 
 
