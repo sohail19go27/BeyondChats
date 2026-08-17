@@ -143,6 +143,7 @@ Save updated versions to DB
 cd ../frontend 
 npm install  
 npm run dev 
+npm build
 
 Frontend runs at: http://localhost:5173 
 
