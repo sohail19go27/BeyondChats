@@ -5,7 +5,7 @@ This Project is implemented in using three phases of works as described in the a
 
 ## 📌 Project Overviewings:
 
-The goal of these projects is to develop chattings from articles and  websites and all.
+The goal of these projects is to develop chattings from articles and  websites and all etc.
 
 Scraping the oldest blog articles from BeyondChat websites and its sources and all etc.  
 
