@@ -11,7 +11,7 @@ Scraping the oldest blog articles from BeyondChat websites and its sources and a
 
 Store and manage them via namely CRUD APIs developmenting etcs. 
 
-Enhance article content using AI (LLM) with reference to articles etc. 
+Enhances article content using AI (LLM) with reference to articles etc. 
 
 Display both original and AI-updated articles in a responsive React frontends and work and etc. 
 
