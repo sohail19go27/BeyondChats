@@ -37,7 +37,7 @@ Built CRUD APIs using Node.js, Express and Mongoose.
 Fetches stored articles from the database.  
 Searches related articles(mocked Google search). 
 Uses Gemini LLM to rewrite and enhance content.  
-Preserves original meaning while improving structure and clarity. 
+Preserves original meaning while improving structure and clarify everything.
 Appends reference links at the bottom. 
 Updated articles are saved back to MongoDB with an isUpdated flag. 
 
