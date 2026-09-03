@@ -3,7 +3,7 @@
 This Project is implemented in using three phases of works as described in the assignment and demonstrates backend development engineering, web scraping, ai-based content enhancement, and frontend UIs developmenting it and things. 
 
 
-## 📌 Project Overviewing and all:
+## 📌 Project Overviewing and alls:
 
 The goal of these projects is to develop chattings from articles and  websites and all etc.
 
